@@ -1,0 +1,11 @@
+﻿  covidproject.c
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(50,16): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(50,14): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(74,21): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(74,19): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(85,21): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(85,19): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(88,21): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(88,19): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\0307r\source\repos\assignment1.c\assignment1.c\covidproject.c(104,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '%'이(가) 있습니다.
+  assignment1.c.vcxproj -> C:\Users\0307r\source\repos\assignment1.c\Debug\assignment1.c.exe
